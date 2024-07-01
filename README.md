@@ -1,0 +1,2 @@
+# ticaret.eureka
+mywebm
